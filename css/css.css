@@ -1,0 +1,45 @@
+table{
+	margin-top: 10%;
+	margin-left: 25%;
+	border: solid black 1px ;
+	text-align: center;
+	background: lightgrey;
+}
+
+.month{
+	background: lightgrey;
+	
+}
+.month>th{
+	font-size: 20px;
+	
+	
+}
+.tHead{
+	background: lightgrey;
+	font-size: 20px;
+	height: 20px;
+	border: none;
+	text-align: center;
+}
+.tHead>th{
+	border: none;
+	text-align: center;
+}
+.cell{
+	border: solid black 1px ;
+	text-align: center;
+	font-size: 20px;
+	height: 40px;	
+	background: white;
+}
+.toDay{
+	background: grey;
+	color:lightgreen;
+}
+.empty{
+	background: lightgrey;
+	font-size: 24px;
+	
+
+}
